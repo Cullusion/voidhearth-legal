@@ -3,7 +3,7 @@
 **Effective date:** 2026-05-17  
 **Developer:** Cullusion  
 **App:** Void Hearth (Android)  
-**Contact:** [your-support-email@example.com](mailto:your-support-email@example.com)
+**Contact:** [support@dxmcompliance.com](mailto:support@dxmcompliance.com)
 
 ---
 
@@ -97,6 +97,6 @@ We may update this policy from time to time. The effective date at the top of th
 
 For privacy questions or data deletion requests:
 
-**Email:** [your-support-email@example.com](mailto:your-support-email@example.com)  
+**Email:** [support@dxmcompliance.com](mailto:support@dxmcompliance.com)  
 **Developer:** Cullusion  
 **GitHub:** [https://github.com/Cullusion](https://github.com/Cullusion)
